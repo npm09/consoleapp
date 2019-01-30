@@ -1,4 +1,4 @@
-# npm09_consoleapp_learninghub [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url] [![license][license-badge]][license-badge-url]  [![commit][license-commit]][license-commit-url]
+# npm09_consoleapp_learninghub [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url] [![license][license-badge]][license-badge-url]  [![last commit][license-commit]][license-commit-url]
 
 [travis-image]: https://img.shields.io/travis/amitpatange/npm09_consoleapp_learninghub/master.svg
 [travis-url]: https://travis-ci.org/amitpatange/npm09_consoleapp_learninghub
