@@ -1,0 +1,16 @@
+{
+  "name": "npm09_consoleapp_learninghub",
+  "version": "1.0.1",
+  "description": "Console app demo here.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm09"
+  },
+  "keywords": [
+    "npm",
+    "consoleapp"
+  ],
+  "author": "Amit Patange",
+  "license": "ISC"
+}
